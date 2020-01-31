@@ -1,0 +1,10 @@
+.idea
+.vs
+.vscode
+node_modules
+.cache-loader
+.log
+.map
+.DS_store
+package-lock.json
+assets/*
